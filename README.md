@@ -40,6 +40,5 @@ The objective of this task is to detect hate speech in tweets. Tweet contains ne
 
 
 <br>Thank You!	
-<p><!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/shreyaswankhede" aria-label="Follow @shreyaswankhede on GitHub">Follow @shreyaswankhede</a>
+
 
